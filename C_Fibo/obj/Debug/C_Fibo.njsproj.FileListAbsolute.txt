@@ -1,0 +1,3 @@
+G:\Git\Praktyka_TypeScript\C_Fibo\obj\Debug\C_Fibo.njsprojAssemblyReference.cache
+G:\Git\Praktyka_TypeScript\C_Fibo\obj\Debug\C_Fibo.njsproj.CoreCompileInputs.cache
+G:\Git\Praktyka_TypeScript\C_Fibo\bin\Microsoft.NodejsTools.WebRole.dll

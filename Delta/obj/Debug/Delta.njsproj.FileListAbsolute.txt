@@ -1,0 +1,2 @@
+G:\Git\Praktyka_TypeScript\Delta\obj\Debug\Delta.njsproj.CoreCompileInputs.cache
+G:\Git\Praktyka_TypeScript\Delta\bin\Microsoft.NodejsTools.WebRole.dll

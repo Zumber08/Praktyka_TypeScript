@@ -1,0 +1,3 @@
+G:\Git\Praktyka_TypeScript\Silnia\obj\Debug\Silnia.njsproj.CoreCompileInputs.cache
+G:\Git\Praktyka_TypeScript\Silnia\bin\Microsoft.NodejsTools.WebRole.dll
+G:\Git\Praktyka_TypeScript\Silnia\obj\Debug\Silnia.njsprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+G:\Git\Praktyka_TypeScript\Podzielnosc\obj\Debug\Podzielnosc.njsproj.CoreCompileInputs.cache
+G:\Git\Praktyka_TypeScript\Podzielnosc\bin\Microsoft.NodejsTools.WebRole.dll
+G:\Git\Praktyka_TypeScript\Podzielnosc\obj\Debug\Podzielnosc.njsprojAssemblyReference.cache
